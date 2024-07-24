@@ -1,5 +1,5 @@
 
-[![Continuus Integration](https://github.com/kb1907/GithubActions-DockerHub-CICD-Tutorial/actions/workflows/github-docker-cicd.yaml/badge.svg)](https://github.com/kb1907/GithubActions-DockerHub-CICD-Tutorial/actions/workflows/github-docker-cicd.yaml)
+<!--[![Continuus Integration](https://github.com/kb1907/GithubActions-DockerHub-CICD-Tutorial/actions/workflows/github-docker-cicd.yaml/badge.svg)](https://github.com/kb1907/GithubActions-DockerHub-CICD-Tutorial/actions/workflows/github-docker-cicd.yaml)-->
 
 # Create an MLOps Pipeline With GitHub and Docker Hub in Minutes
 
